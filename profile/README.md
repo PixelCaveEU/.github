@@ -1,4 +1,4 @@
-<img style="scale:0.980" src="img/Socials_Banner_PixelCave.png">
+<img style="scale:0.980" src="../img/Socials_Banner_PixelCave.png">
 
 
 <h1 style="padding-left: 20px;">PixelCave</h1>
